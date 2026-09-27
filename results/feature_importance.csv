@@ -1,0 +1,120 @@
+feature,importance
+Cervical_mucus_code_Clear,0.33739668
+day_from_last_menses,0.33301616
+Cervical_mucus_code_Bloody,0.32485148
+BBT,0.0014326625
+lh,0.0008797575
+mood_Moody,0.00078179955
+BBT_mean_7d,0.00043377024
+inter_cycle_length,0.0003355808
+pain_nrs,0.00030418797
+BBT_std_7d,0.00030186953
+estrogen,0.00022959069
+BMI,3.6468202e-05
+nightly_temperature,0.0
+age,0.0
+bleeding_days,0.0
+lag2_BBT,0.0
+flow_intensity_Heavy,0.0
+flow_intensity_Light,0.0
+flow_intensity_Moderate,0.0
+flow_intensity_Not at all,0.0
+sleep_hours,0.0
+lag1_BBT,0.0
+cycle_variability,0.0
+flow_intensity_Very Heavy,0.0
+flow_color_Black,0.0
+flow_color_Bright Red,0.0
+flow_color_Dark Brown / Dark Red,0.0
+flow_color_Grey,0.0
+flow_color_Not at all,0.0
+flow_color_Orange,0.0
+flow_color_Other,0.0
+flow_color_Pink,0.0
+flow_color_Yellow,0.0
+appetite_High,0.0
+appetite_Low,0.0
+appetite_Moderate,0.0
+appetite_Not at all,0.0
+appetite_Very High,0.0
+appetite_Very Low,0.0
+exerciselevel_High,0.0
+exerciselevel_Low,0.0
+exerciselevel_Moderate,0.0
+exerciselevel_Not at all,0.0
+exerciselevel_Very High,0.0
+exerciselevel_Very Low,0.0
+headaches_High,0.0
+headaches_Low,0.0
+headaches_Moderate,0.0
+headaches_Not at all,0.0
+headaches_Very High,0.0
+headaches_Very Low/Little,0.0
+cramps_High,0.0
+flow_intensity_Somewhat Heavy,0.0
+flow_intensity_Somewhat Light,0.0
+flow_intensity_Spotting / Very Light,0.0
+cramps_Not at all,0.0
+cramps_Moderate,0.0
+cramps_Low,0.0
+cramps_Very High,0.0
+sorebreasts_Moderate,0.0
+cramps_Very Low/Little,0.0
+sorebreasts_High,0.0
+sorebreasts_Low,0.0
+fatigue_High,0.0
+fatigue_Low,0.0
+fatigue_Moderate,0.0
+fatigue_Not at all,0.0
+fatigue_Very High,0.0
+sorebreasts_Not at all,0.0
+sorebreasts_Very High,0.0
+sorebreasts_Very Low/Little,0.0
+sleepissue_Moderate,0.0
+sleepissue_Not at all,0.0
+sleepissue_Very High,0.0
+sleepissue_Very Low/Little,0.0
+moodswing_High,0.0
+moodswing_Low,0.0
+moodswing_Moderate,0.0
+moodswing_Not at all,0.0
+moodswing_Very High,0.0
+moodswing_Very Low/Little,0.0
+stress_High,0.0
+stress_Low,0.0
+stress_Moderate,0.0
+fatigue_Very Low/Little,0.0
+sleepissue_High,0.0
+sleepissue_Low,0.0
+stress_Very Low/Little,0.0
+stress_Very High,0.0
+stress_Not at all,0.0
+foodcravings_High,0.0
+foodcravings_Very High,0.0
+foodcravings_Low,0.0
+foodcravings_Moderate,0.0
+foodcravings_Not at all,0.0
+indigestion_Moderate,0.0
+indigestion_Not at all,0.0
+indigestion_Very High,0.0
+indigestion_Very Low/Little,0.0
+bloating_High,0.0
+foodcravings_Very Low/Little,0.0
+indigestion_High,0.0
+indigestion_Low,0.0
+bloating_Not at all,0.0
+bloating_Moderate,0.0
+bloating_Low,0.0
+bloating_Very Low/Little,0.0
+Cervical_mucus_code_ Creamy,0.0
+Cervical_mucus_code_Creamy,0.0
+Cervical_mucus_code_Dry,0.0
+bloating_Very High,0.0
+LH_result_Negative,0.0
+LH_result_Positive,0.0
+mood_Calm,0.0
+mood_Energetic,0.0
+mood_lower back,0.0
+mood_sad,0.0
+activity_level_Low,0.0
+activity_level_Moderate,0.0

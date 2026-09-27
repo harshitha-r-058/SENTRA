@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+Dataset files.zip
+model/menstrual_phase_model.pkl

@@ -1,0 +1,6 @@
+{
+    "Menstrual": 0,
+    "Follicular": 1,
+    "Fertility": 2,
+    "Luteal": 3
+}
